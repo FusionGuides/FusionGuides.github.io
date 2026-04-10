@@ -1,1 +1,13 @@
+title: Fusion Guides
+description: Tutorials, Guides & Fixes
+theme: minima
 
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - index.md
+
+show_excerpts: true
