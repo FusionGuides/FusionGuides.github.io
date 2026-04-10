@@ -3,10 +3,9 @@ description: Tutorials, Guides & Fixes for Developers and Users
 
 url: https://username.github.io
 
-remote_theme: mmistakes/minimal-mistakes
+theme: minima
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
 
@@ -14,7 +13,8 @@ markdown: kramdown
 
 show_excerpts: true
 
-minimal_mistakes_skin: "dark"
+minima:
+  skin: dark
 
 header_pages:
   - index.md
