@@ -3,11 +3,19 @@ layout: home
 title: Fusion Guides
 ---
 
-## 🚀 Welcome to Fusion Guides
+# ⚡ Fusion Guides
 
-A clean platform for **tutorials, guides, and fixes**.
+Welcome to **Fusion Guides** 🚀  
+A clean platform for tutorials, guides, and fixes.
 
-Use navigation above to explore categories:
-- 📘 Guides  
-- 💻 Tutorials  
-- 🔧 Fixes  
+---
+
+## 📌 What you’ll find here:
+
+- 📘 Step-by-step Guides  
+- 💻 Easy Tutorials  
+- 🔧 Quick Fixes  
+
+---
+
+💡 Everything is structured and easy to follow.
