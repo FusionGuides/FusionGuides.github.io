@@ -12,10 +12,9 @@ show_excerpts: true
 
 header_pages:
   - index.md
-minima:
-  skin: dark
-header_pages:
-  - index.md
   - guides.md
   - tutorials.md
   - fixes.md
+
+minima:
+  skin: dark
