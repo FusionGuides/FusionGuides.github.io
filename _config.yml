@@ -12,3 +12,5 @@ show_excerpts: true
 
 header_pages:
   - index.md
+minima:
+  skin: dark
