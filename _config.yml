@@ -18,3 +18,5 @@ header_pages:
 
 minima:
   skin: dark
+  minima:
+  skin: dark
