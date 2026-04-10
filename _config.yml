@@ -1,5 +1,6 @@
 title: Fusion Guides
 description: Tutorials, Guides & Fixes
+
 theme: minima
 
 markdown: kramdown
@@ -7,7 +8,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+show_excerpts: true
+
 header_pages:
   - index.md
-
-show_excerpts: true
