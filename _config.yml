@@ -3,10 +3,10 @@ description: Tutorials, Guides & Fixes
 
 theme: minima
 
-markdown: kramdown
-
 plugins:
   - jekyll-feed
+
+markdown: kramdown
 
 show_excerpts: true
 
@@ -17,6 +17,4 @@ header_pages:
   - fixes.md
 
 minima:
-  skin: dark
-  minima:
   skin: dark
