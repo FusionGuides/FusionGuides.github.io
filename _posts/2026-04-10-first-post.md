@@ -4,4 +4,4 @@ date: 2026-04-10
 categories: [guides]
 ---
 
-Hello! This is our first blog post 🚀
+Welcome to guides section 🚀
