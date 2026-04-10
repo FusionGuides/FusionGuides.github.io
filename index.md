@@ -1,8 +1,13 @@
 ---
 layout: home
-title: Welcome
+title: Fusion Guides
 ---
 
-# 🚀 Fusion Guides
+## 🚀 Welcome to Fusion Guides
 
-Welcome to tutorials, guides and fixes blog.
+A clean platform for **tutorials, guides, and fixes**.
+
+Use navigation above to explore categories:
+- 📘 Guides  
+- 💻 Tutorials  
+- 🔧 Fixes  
