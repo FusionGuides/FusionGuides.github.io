@@ -1,20 +1,23 @@
 title: Fusion Guides
-description: Tutorials, Guides & Fixes
+description: Tutorials, Guides & Fixes for Developers and Users
 
-remote_theme: jekyll/minima
+url: https://username.github.io
+
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 markdown: kramdown
 
 show_excerpts: true
+
+minimal_mistakes_skin: "dark"
 
 header_pages:
   - index.md
   - guides.md
   - tutorials.md
   - fixes.md
-
-minima:
-  skin: dark
+  - about.md
