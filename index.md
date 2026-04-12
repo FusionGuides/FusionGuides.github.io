@@ -19,4 +19,4 @@ A clean, fast and simple platform for **tutorials, guides and fixes**.
 
 ---
 
-💡 Everything is structured, simple and beginner-friendly.
+
