@@ -1,13 +1,8 @@
----
-layout: archive
-title: "Tutorials"
-permalink: /tutorials/
----
 
-Posts in Tutorials category:
----
 title: "HOW TO RUN GAMELOOP"
+
 date: 2026-04-13
+
 categories: [TUTORIALS]
 ---
 GameLoop setup process
